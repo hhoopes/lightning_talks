@@ -66,7 +66,7 @@
 * Nicole Hall The Antikythera Mechanism
 * Torie Warren
 * Adam Hundley
-* Heidi Hoopes
+* Heidi Hoopes - [&lt;/XSS&gt;: A Malicious User in Robot World](https://gist.github.com/hhoopes/697b29349678ec1a8d1b)
 * Julian Feliciano
 
 ##### Electives and Student-Led Sessions
